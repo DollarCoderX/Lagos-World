@@ -1,0 +1,7 @@
+- [x] Enhance scene effects while preserving the opening.
+- [x] Louder music with browser-safe automatic start; remove fullscreen.
+- [x] Continue to “Going to world” spinner and verify the intro.
+- [x] Animate and polish Continue without changing its destination.
+- [x] Fit scene framing and controls to phone, tablet, and landscape screens; verify layouts.
+- [x] Replace the old scenes with all six new uploads and create separate portrait artwork for phones.
+- [x] Restyle Continue as a soft white iOS-style pill with shimmer; verify the loading transition.
